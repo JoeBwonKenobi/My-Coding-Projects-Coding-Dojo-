@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 ###Models
 
-Outlet Sales vs. Food category count
+####Outlet Sales vs. Food category count
 
 
 
@@ -25,7 +25,7 @@ Interpretation:
 Here we see that the highest sold item in the outlets is starchy food, while the other catrgory is the lowest.
 
 
-Outlet Sales vs. Item Type
+####Outlet Sales vs. Item Type
 
 ![Model 2](https://user-images.githubusercontent.com/117705408/209273528-4a571e5a-3ca7-4ffd-8d25-1e6325468580.png)
 

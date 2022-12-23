@@ -15,6 +15,10 @@ The goal of this is to help the retailer understand the properties of products a
 
 ### Installing
 
+###Models
+![Model 1](https://user-images.githubusercontent.com/117705408/209273225-32b196b4-e6cb-4693-816e-91c8f409e969.png)
+
+
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 

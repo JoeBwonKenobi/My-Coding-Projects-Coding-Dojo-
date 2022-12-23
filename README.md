@@ -5,13 +5,13 @@ This project will predict sales for food items sold in various stores.
 # Description
 
 The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. To help our stakeholders better understand, we will provide in-depth visualizations that show what we have found.
-#Data
+# Data
 
 Here is the link to the original data:
 
 https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
-#Methods:
+# Methods:
 
 Before splitting the data, we will drop and duplicates, and check for any inconsistancies. 
 This will help prepare our dat for machine learning.
@@ -20,7 +20,7 @@ Then we performed a validation split.
 Next we created a preprocessing object to prepare the dataset for Machine Learning.
 We imputed missing values using the Simple Imputer after the validation split to 
 
-#Models:
+# Models:
 
 Outlet Sales vs. Food category count
 
@@ -41,14 +41,14 @@ Interpretation:
 
 Here we see that tier 2 has the highest sales, while teir 1 has the lowest.
 
-#Description of Model:
+# Description of Model:
 
 For the final model, we choose the Rndom Tree Regression Model
 It has some bias, but overall it has the highest testing score.
 Report the most important metrics
 Refer to the metrics to describe how well the model would solve the business problem
 
-Recommendations:
+# Recommendations:
 
 It's important to know the best max depth and estimators.
 For this model the best max depth is 5 and the best estimators is 92.

@@ -7,7 +7,10 @@ This project will predict sales for food items sold in various stores.
 The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. To help our stakeholders better understand, we will provide in-depth visualizations that show what we have found.
 ##Data
 
-'/content/sales_predictions.csv'
+Here is the link to the original data:
+
+https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
+
 
 ###Models
 

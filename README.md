@@ -5,15 +5,9 @@ This project will predict sales for food items sold in various stores.
 ## Description
 
 The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. To help our stakeholders better understand, we will provide in-depth visualizations that show what we have found.
+##Data
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
+'/content/sales_predictions.csv'
 
 ###Models
 

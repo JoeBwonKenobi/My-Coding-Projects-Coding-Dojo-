@@ -53,8 +53,8 @@ Refer to the metrics to describe how well the model would solve the business pro
 It's important to know the best max depth and estimators.
 For this model the best max depth is 5 and the best estimators is 92.
 
-Limitations & Next Steps
+# Limitations & Next Steps
 There were no limitations theoughout this project.
 
-For further information
+# For further information
 For any additional questions, please contact davydronez@gmail.com

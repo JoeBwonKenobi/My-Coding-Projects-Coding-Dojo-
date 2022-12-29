@@ -35,7 +35,7 @@ Here we see that the highest sold item in the outlets is starchy food, while the
 
 Outlet Sales vs. Item Type
 
-![Model 2]("C:\Users\davyd\OneDrive\Desktop\Images\New.png")
+![Model 2](https://github.com/JoeBwonKenobi/My-Coding-Projects-Coding-Dojo-/blob/main/Images/New.png?raw=true)
 
 Interpretation:
 

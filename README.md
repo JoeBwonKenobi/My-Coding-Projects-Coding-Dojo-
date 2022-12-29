@@ -43,15 +43,16 @@ Here we see that tier 2 has the highest sales, while teir 1 has the lowest.
 
 # Description of Model:
 
-For the final model, we choose the Rndom Tree Regression Model
-It has some bias, but overall it has the highest testing score.
-Report the most important metrics
-Refer to the metrics to describe how well the model would solve the business problem
+Used a Random Forest Regressor Model as our final model. 
+Here, we saw the best results as far as the regression metrics and the model's performance.
+This model still has some bias. However, this model has the best performance on the testing set.
+For the R^2 score 60.4% of the variance is explained.
+For the MAE the testing score is off by about 728.039
 
 # Recommendations:
 
-It's important to know the best max depth and estimators.
-For this model the best max depth is 5 and the best estimators is 92.
+It is important to know what you Best Max Depth is along with your Best Estimators are. 
+Based on this model the best Max depth is 5 and the Best Estimator is 92.
 
 # Limitations & Next Steps
 There were no limitations theoughout this project.

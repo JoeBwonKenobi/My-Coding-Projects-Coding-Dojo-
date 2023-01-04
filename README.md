@@ -35,7 +35,8 @@ Here we see that the highest sold item in the outlets is starchy food, while the
 
 Outlet Sales vs. Item Type
 
-![Model 2](https://user-images.githubusercontent.com/117705408/210468337-38bffb62-4028-414c-8056-9e2feeec73aa.png)
+![Model 2](https://user-images.githubusercontent.com/117705408/210471274-91b06474-7995-4d36-9a86-941f7d73e10a.png)
+
 
 Interpretation:
 

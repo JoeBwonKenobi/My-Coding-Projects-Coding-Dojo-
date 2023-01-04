@@ -24,7 +24,8 @@ We imputed missing values using the Simple Imputer after the validation split to
 
 Outlet Sales vs. Food category count
 
-![Model 1]("C:\Users\davyd\OneDrive\Desktop\Images\Model 1.png")
+![Model 1](https://user-images.githubusercontent.com/117705408/210471082-4c095796-7de3-4fa6-a5e5-2034994617b8.png)
+
 
 
 Interpretation:

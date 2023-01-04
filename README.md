@@ -52,8 +52,7 @@ For the MAE the testing score is off by about 728.039
 
 # Recommendations:
 
-It is important to know what you Best Max Depth is along with your Best Estimators are. 
-Based on this model the best Max depth is 5 and the Best Estimator is 92.
+Overall, the best model is definitely the tuned Random Forrest Regressor Model. There was still some bias in the model, but by far it out performed the linesr regression model.
 
 # Limitations & Next Steps
 There were no limitations theoughout this project.

@@ -1,3 +1,4 @@
+![New](https://user-images.githubusercontent.com/117705408/210468337-38bffb62-4028-414c-8056-9e2feeec73aa.png)
 # Sales Prediction Project
 
 This project will predict sales for food items sold in various stores.
@@ -35,7 +36,7 @@ Here we see that the highest sold item in the outlets is starchy food, while the
 
 Outlet Sales vs. Item Type
 
-![Model 2](https://github.com/JoeBwonKenobi/My-Coding-Projects-Coding-Dojo-/blob/main/Images/New.png?raw=true)
+![New](https://user-images.githubusercontent.com/117705408/210468337-38bffb62-4028-414c-8056-9e2feeec73aa.png)
 
 Interpretation:
 

@@ -1,4 +1,3 @@
-![New](https://user-images.githubusercontent.com/117705408/210468337-38bffb62-4028-414c-8056-9e2feeec73aa.png)
 # Sales Prediction Project
 
 This project will predict sales for food items sold in various stores.

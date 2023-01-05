@@ -24,7 +24,7 @@ We imputed missing values using the Simple Imputer after the validation split to
 
 Outlet Sales vs. Food category count
 
-![Model 1]![image](https://user-images.githubusercontent.com/117705408/210702555-0959b106-27de-4dcf-8f33-7606d8d518d5.png)
+![image](https://user-images.githubusercontent.com/117705408/210702555-0959b106-27de-4dcf-8f33-7606d8d518d5.png)
 
 
 Interpretation:
@@ -36,7 +36,7 @@ were the two lowest.
 
 Outlet Sales vs. Item Type
 
-![Model 2]![image](https://user-images.githubusercontent.com/117705408/210702522-b8da5291-b6f9-4d15-a08e-cd4f3ec955f0.png)
+![image](https://user-images.githubusercontent.com/117705408/210702522-b8da5291-b6f9-4d15-a08e-cd4f3ec955f0.png)
 
 
 

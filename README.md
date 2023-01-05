@@ -24,23 +24,25 @@ We imputed missing values using the Simple Imputer after the validation split to
 
 Outlet Sales vs. Food category count
 
-![Model 1](https://user-images.githubusercontent.com/117705408/210471082-4c095796-7de3-4fa6-a5e5-2034994617b8.png)
-
+![Model 1]![image](https://user-images.githubusercontent.com/117705408/210702555-0959b106-27de-4dcf-8f33-7606d8d518d5.png)
 
 
 Interpretation:
 
-Here we see that the highest sold item in the outlets is starchy food, while the other catrgory is the lowest.
+The top selling Item type was fruits and vegtables, closely followed by snack
+foods. Dairy placed fifth infront of canned foods. while breakfast and seafood
+were the two lowest.
 
 
 Outlet Sales vs. Item Type
 
-![Model 2](https://user-images.githubusercontent.com/117705408/210471274-91b06474-7995-4d36-9a86-941f7d73e10a.png)
+![Model 2]![image](https://user-images.githubusercontent.com/117705408/210702522-b8da5291-b6f9-4d15-a08e-cd4f3ec955f0.png)
+
 
 
 Interpretation:
 
-Here we see that tier 2 has the highest sales, while teir 1 has the lowest.
+Here we see that the top selling outlet type was that of tier 3, followed by tier 2, and then tier 1 was the lowest selling outlet type..
 
 # Description of Model:
 

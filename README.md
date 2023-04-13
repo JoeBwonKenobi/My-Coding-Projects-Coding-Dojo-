@@ -4,7 +4,7 @@ This project will predict sales for food items sold in various stores.
 
 # Description
 
-The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. To help our stakeholders better understand, we will provide in-depth visualizations that show what we have found.
+The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. Building a sales prediction model using Linear Regression, KNN & Random Forest Regressor models I was able to create sales predictions for the stakeholders. To help the stakeholders better understand, I've provided in-depth visualizations that show the trends and coorlations that effect sales.
 # Data
 
 Here is the link to the original data:

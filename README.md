@@ -4,7 +4,8 @@ This project will predict sales for food items sold in various stores.
 
 # Description
 
-The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. I extracted, processed, and analyized the data set to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN & Random Forest Regressor models I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and coorlations that effect sales.
+The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. I extracted, processed, and analyized the data set to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN & Random Forest Regressor models I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and coorlations that effect sales. The stakeholders can use these valuable insights, along with the predictive models, to make informed descisions. 
+
 # Data
 
 Here is the link to the original data:
@@ -14,14 +15,14 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 # Methods:
 
 Before splitting the data, we will drop and duplicates, and check for any inconsistancies. 
-This will help prepare our dat for machine learning.
-Then We identified the features (X) and the target (y).
-Then we performed a validation split.
-Next we created a preprocessing object to prepare the dataset for Machine Learning.
-We imputed missing values using the Simple Imputer after the validation split to ensure there was no data leakage.
+This will help prepare the data for machine learning.
+Then I identified the features (X) and the target (y) and performed a validation split.
+Next, I created a preprocessing object to prepare the dataset for Machine Learning.
+I imputed missing values using the Simple Imputer after the validation split to ensure there was no data leakage. then build the separate models. After running the training data on the models, I tuned them to get the optimal result and then ran the imporoved models on the testing data to get the best version of the best model.
 
-# Models:
+# Visualizations:
 
+The 
 Outlet Sales vs. Food category count
 
 ![image](https://user-images.githubusercontent.com/117705408/210702555-0959b106-27de-4dcf-8f33-7606d8d518d5.png)

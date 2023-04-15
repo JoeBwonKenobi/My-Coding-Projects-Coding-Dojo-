@@ -28,7 +28,7 @@ Outlet Sales vs. Food category count
 ![image](https://user-images.githubusercontent.com/117705408/210702555-0959b106-27de-4dcf-8f33-7606d8d518d5.png)
 
 
-Interpretation:
+## **Interpretation:**
 
 The top selling Item type was fruits and vegtables, closely followed by snack
 foods. Dairy placed fifth infront of canned foods. while breakfast and seafood
@@ -41,11 +41,11 @@ Outlet Sales vs. Item Type
 
 
 
-Interpretation:
+## **Interpretation:**
 
 Here we see that the top selling outlet type was that of tier 3, followed by tier 2, and then tier 1 was the lowest selling outlet type..
 
-# Description of Model:
+# Description of Final Model choice:
 
 Used a Random Forest Regressor Model as our final model. 
 Here, we saw the best results as far as the regression metrics and the model's performance.

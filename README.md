@@ -25,7 +25,7 @@ I imputed missing values using the Simple Imputer after the validation split to 
 The 
 Outlet Sales vs. Food category count
 
-![image](https://user-images.githubusercontent.com/117705408/235286521-cfe2fee4-479b-4bbe-9ec8-ee12ed8926bb.png)
+![image](https://user-images.githubusercontent.com/117705408/235286820-09e4f7f5-f661-4382-9515-c3c331e7605b.png)
 
 
 ## **Interpretation:**

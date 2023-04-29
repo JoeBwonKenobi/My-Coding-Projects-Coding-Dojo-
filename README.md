@@ -37,7 +37,7 @@ were the two lowest.
 
 Outlet Sales vs. Item Type
 
-![image](https://user-images.githubusercontent.com/117705408/210702522-b8da5291-b6f9-4d15-a08e-cd4f3ec955f0.png)
+![image](https://user-images.githubusercontent.com/117705408/235287026-1d9219a9-3388-4744-867c-84932cdf801a.png)
 
 
 

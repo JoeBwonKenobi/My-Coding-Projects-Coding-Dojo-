@@ -14,11 +14,11 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 # Methods:
 
-Before splitting the data, we will drop and duplicates, and check for any inconsistancies. 
-This will help prepare the data for machine learning.
-Then I identified the features (X) and the target (y) and performed a validation split.
-Next, I created a preprocessing object to prepare the dataset for Machine Learning.
-I imputed missing values using the Simple Imputer after the validation split to ensure there was no data leakage. then build the separate models. After running the training data on the models, I tuned them to get the optimal result and then ran the imporoved models on the testing data to get the best version of the best model.
+Before we start working with the data to teach the machine, we need to clean it up and make sure everything looks good. So we'll remove any duplicate information and check to make sure there aren't any mistakes. Then we'll separate the data into different groups: one group that will be used to teach the machine (the "features" or X), and another group that we want the machine to learn (the "target" or y).
+
+We'll also divide the data into training and testing groups, so that we can check how well our machine is learning. To get the data ready for the machine, we'll use a set of tools called a "preprocessing object." One of the things we'll do with this is fill in any missing information.
+
+Once everything is set up, we'll build different machine models to try to get the best results. We'll use the training data to teach each model, and then we'll tweak the models until they work as well as possible. Finally, we'll use the best model to analyze the testing data and see how well it works.
 
 # Visualizations:
 

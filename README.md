@@ -55,7 +55,7 @@ For the MAE the testing score is off by about 728.039
 
 # Recommendations:
 
-Overall, the best model is definitely the tuned Random Forrest Regressor Model. There was still some bias in the model, but by far it out performed the linesr regression model.
+Overall, the best model is definitely the tuned Random Forrest Regressor Model. There was still some bias in the model, but by far it out performed the linesr regression model. This model could be used to make predictions to a point, they would only be so accurate because of the data the model was trained on. With more data the accuracy could greatly increase.
 
 # Limitations & Next Steps
 There were no immediate limitations throughout this project. However, with more data a much more accurate model could be trained and then used to make better predictions. I'm limited to the data I was given, this was also my first project in Coding Dojo.

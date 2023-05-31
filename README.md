@@ -4,7 +4,7 @@ This project will predict sales for food items sold in various stores.
 
 # Description
 
-The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. I extracted, processed, and analyized the data set to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN & Random Forest Regressor models I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and coorlations that effect sales. The stakeholders can use these valuable insights, along with the predictive models, to make informed descisions. 
+The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. I extracted, processed, and analyzed the dataset to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN, and Random Forest Regressor models, I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and correlations that affect sales. The stakeholders can use these valuable insights, along with the predictive models, to make informed decisions.
 
 # Data
 
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 Before we start working with the data to teach the machine, we need to clean it up and make sure everything looks good. So we'll remove any duplicate information and check to make sure there aren't any mistakes. Then we'll separate the data into different groups: one group that will be used to teach the machine (the "features" or X), and another group that we want the machine to learn (the "target" or y).
 
-We'll also divide the data into training and testing groups, so that we can check how well our machine is learning. To get the data ready for the machine, we'll use a set of tools called a "preprocessing object." One of the things we'll do with this is fill in any missing information.
+We'll also divide the data into training and testing groups so that we can check how well our machine is learning. To get the data ready for the machine, we'll use a set of tools called a "preprocessing object." One of the things we'll do with this is fill in any missing information.
 
 Once everything is set up, we'll build different machine models to try to get the best results. We'll use the training data to teach each model, and then we'll tweak the models until they work as well as possible. Finally, we'll use the best model to analyze the testing data and see how well it works.
 
@@ -30,9 +30,7 @@ Outlet Sales vs. Food category count
 
 ## **Interpretation:**
 
-The top selling Item type was fruits and vegtables, closely followed by snack
-foods. Dairy placed fifth infront of canned foods. while breakfast and seafood
-were the two lowest.
+The top-selling item type was fruits and vegetables, closely followed by snack foods. Dairy placed fifth in front of canned foods, while breakfast and seafood were the two lowest.
 
 
 Outlet Sales vs. Item Type
@@ -43,22 +41,18 @@ Outlet Sales vs. Item Type
 
 ## **Interpretation:**
 
-Here we see that the top selling outlet type was that of tier 3, followed by tier 2, and then tier 1 was the lowest selling outlet type..
+Here we see that the top-selling outlet type was that of tier 3, followed by tier 2, and then tier 1 was the lowest selling outlet type.
 
 # Description of Final Model choice:
 
-Used a Random Forest Regressor Model as our final model. 
-Here, we saw the best results as far as the regression metrics and the model's performance.
-This model still has some bias. However, this model has the best performance on the testing set.
-For the R^2 score 60.4% of the variance is explained.
-For the MAE the testing score is off by about 728.039
+Used a Random Forest Regressor Model as our final model. Here, we saw the best results in terms of the regression metrics and the model's performance. This model still has some bias. However, this model has the best performance on the testing set. For the R^2 score, 60.4% of the variance is explained. For the MAE, the testing score is off by about 728.039.
 
 # Recommendations:
 
-Overall, the best model is definitely the tuned Random Forrest Regressor Model. There was still some bias in the model, but by far it out performed the linesr regression model. This model could be used to make predictions to a point, they would only be so accurate because of the data the model was trained on. With more data the accuracy could greatly increase.
+Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far, it outperformed the linear regression model. This model could be used to make predictions to a point; they would only be so accurate because of the data the model was trained on. With more data, the accuracy could greatly increase.
 
 # Limitations & Next Steps
-There were no immediate limitations throughout this project. However, with more data a much more accurate model could be trained and then used to make better predictions. I'm limited to the data I was given, this was also my first project in Coding Dojo.
+There were no immediate limitations throughout this project. However, with more data, a much more accurate model could be trained and then used to make better predictions. I'm limited to the data I was given; this was also my first project in Coding Dojo.
 
 # For further information
 For any additional questions, please contact davydronez@gmail.com

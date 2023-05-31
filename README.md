@@ -4,7 +4,7 @@ This project will predict sales for food items sold in various stores.
 
 # Description
 
-The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. I extracted, processed, and analyzed the dataset to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN, and Random Forest Regressor models, I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and correlations that affect sales. The stakeholders can use these valuable insights, along with the predictive models, to make informed decisions.
+The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales for a supermarket chain. I extracted, processed, and analyzed the dataset to prepare it for machine learning. Then, by developing sales prediction models using Linear Regression, KNN, and Random Forest Regressor models, I was able to create sales predictions for the stakeholders. To help the stakeholders better understand my findings, I've provided in-depth visualizations that show the trends and correlations that affect sales. The stakeholders can use these valuable insights, along with the predictive models, to make informed decisions.
 
 # Data
 

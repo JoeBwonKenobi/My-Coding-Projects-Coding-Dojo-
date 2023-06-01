@@ -1,6 +1,6 @@
 # Sales Prediction Project
 
-![image](https://github.com/JoeBwonKenobi/Sales-Prediction-Project/assets/117705408/5b167c1f-b5a4-4632-b074-5a4da79200d5)
+![image](https://github.com/JoeBwonKenobi/Sales-Prediction-Project/assets/117705408/a047b146-aa43-43f0-be68-a1e4ff9cef4c)
 
 
 This project will predict sales for food items sold in various stores.

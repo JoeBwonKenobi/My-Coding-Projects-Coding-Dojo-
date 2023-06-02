@@ -30,6 +30,7 @@ https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Copy_of_Joes
 
 2.Import the data and check for missing values.
 
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieProject1Part2.ipynb
 
 3.Create visualizations that assist in the analysis of the data.
 

@@ -38,6 +38,7 @@ https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardie
 
 4.Feature identification, null values, use EDA to create visualizations.
 
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieProject1Part4_Sales_Prediction_Project.ipynb
 
 5.Start cleaning process over by importing the orignial dataset again, to ensure no data leakage occured.
 

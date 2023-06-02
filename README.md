@@ -22,6 +22,27 @@ We'll also divide the data into training and testing groups so that we can check
 
 Once everything is set up, we'll build different machine models to try to get the best results. We'll use the training data to teach each model, and then we'll tweak the models until they work as well as possible. Finally, we'll use the best model to analyze the testing data and see how well it works.
 
+Here are the steps taken in each part of the project and the notebooks associated with them:
+
+1.Set up a GitHub account and a repository for the project.
+
+
+2.Import the data and check for missing values.
+
+
+3.Create visualizations that assist in the analysis of the data.
+
+
+4.Feature identification, null values, use EDA to create visualizations.
+
+
+5.Start cleaning process over by importing the orignial dataset again, to ensure no data leakage occured.
+
+
+6.Build several machine learning models to predict the sales of the supermarkets and analize the results.
+
+
+
 # Visualizations:
 
 The 

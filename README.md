@@ -46,7 +46,7 @@ https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Joe_Lardie__
 
 6.Build several machine learning models to predict the sales of the supermarkets and analize the results.
 
-
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Joe_Lardie__Core_Project_Final.ipynb
 
 # Visualizations:
 

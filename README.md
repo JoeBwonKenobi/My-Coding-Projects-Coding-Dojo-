@@ -34,6 +34,7 @@ https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardie
 
 3.Create visualizations that assist in the analysis of the data.
 
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieProject1Part3_Sales_Prediction_Project.ipynb
 
 4.Feature identification, null values, use EDA to create visualizations.
 

@@ -40,9 +40,9 @@ https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Projec
 
 https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Project_EDA_Visualizations.ipynb
 
-5.Start cleaning process over by importing the orignial dataset again, to ensure no data leakage occured.
+5.Start cleaning process over by importing the orignial dataset again, ensuring there was no data leakage. Preprocess the data for modeling.
 
-https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Joe_Lardie__Project1_Part5.ipynb
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Project_Preprocessing.ipynb
 
 6.Build several machine learning models to predict the sales of the supermarkets and analize the results.
 

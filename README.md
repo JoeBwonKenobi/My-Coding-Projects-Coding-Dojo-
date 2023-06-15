@@ -28,9 +28,9 @@ Here are the steps taken in each part of the project and the notebooks associate
 
 https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Project_Template.ipynb
 
-2.Import the data and check for missing values.
+2.Import the data and clean it.
 
-https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieProject1Part2.ipynb
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Project_Data_Cleaning.ipynb
 
 3.Create visualizations that assist in the analysis of the data.
 

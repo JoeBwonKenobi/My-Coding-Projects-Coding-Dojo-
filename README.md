@@ -24,9 +24,9 @@ Once everything is set up, we'll build different machine models to try to get th
 
 Here are the steps taken in each part of the project and the notebooks associated with them:
 
-1.Set up a GitHub account and a repository for the project.
+1.Set up a GitHub account and a repository for the project that includes a template notebook for the project.
 
-https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Copy_of_JoesphLardieProject1Part1.ipynb
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieSalesProject_Template.ipynb
 
 2.Import the data and check for missing values.
 

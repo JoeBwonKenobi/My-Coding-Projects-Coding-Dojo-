@@ -26,7 +26,7 @@ Here are the steps taken in each part of the project and the notebooks associate
 
 1.Set up a GitHub account and a repository for the project that includes a template notebook for the project.
 
-https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/JoesphLardieSalesProject_Template.ipynb
+https://github.com/JoeBwonKenobi/Sales-Prediction-Project/blob/main/Sales_Project_Template.ipynb
 
 2.Import the data and check for missing values.
 
